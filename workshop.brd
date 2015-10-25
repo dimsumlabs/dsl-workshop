@@ -676,6 +676,8 @@
 <wire x1="41.865" y1="24.305" x2="41.875" y2="24.125" width="0" layer="20"/>
 <dimension x1="7.555" y1="28.395" x2="42.425" y2="28.325" x3="24.919271875" y3="-6.873484375" textsize="1.778" layer="47"/>
 <dimension x1="27.265" y1="4.815" x2="27.235" y2="44.515" x3="65.62403125" y3="24.693996875" textsize="1.778" layer="47"/>
+<text x="25.4" y="23.29" size="1.778" layer="1" font="vector" ratio="20" align="bottom-center">dimsumlabs.com</text>
+<text x="25.4" y="23.29" size="1.778" layer="29" font="vector" ratio="20" align="bottom-center">dimsumlabs.com</text>
 </plain>
 <libraries>
 <library name="adafruit">
